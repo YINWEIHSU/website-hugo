@@ -1,0 +1,4 @@
+baseURL = 'http://yinweihsu.hithub.io/'
+languageCode = 'zh-tw'
+title = 'My Issue Blog'
+theme = 'ananke'
