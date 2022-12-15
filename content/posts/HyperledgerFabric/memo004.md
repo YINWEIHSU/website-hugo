@@ -15,7 +15,7 @@ draft: true
 ### 查詢帳本
 因為分散式帳本的關係，應用程式可以在網路中的任何帳本上查到相對應的結果，但原則上，應用程式會優先查詢自己組織節點的帳本。
 ### 提交交易
-![submit transaction process](/HyperledgerFabric/sample2.png)
+![submit transaction process](/HyperledgerFabric/sample4.png)
 整個交易提交流程就是產生共識的過程。也可以直接將整個流程稱呼為，共識。透過SDK可以很簡單的完成整個流程，但現在來探究一下背後的機制。
 整個交易提交可以分成三個階段，**交易簽章（transaction signing）、分配（distribution）以及驗證（validation）**。
 #### 交易簽章

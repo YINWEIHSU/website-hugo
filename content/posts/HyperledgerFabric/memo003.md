@@ -16,5 +16,5 @@ OUTOF(2, 'ORG1.Member', 'ORG2.Member', 'ORG3.Member')
 
 # 基於狀態的背書（State-based endorsement）
 被書政策甚至可以針對單獨物件進行設定。舉例來說，下圖的CAR1如果要更新狀態，則限定必須要有Sara的簽章。且如果CAR1被轉移給了Bob，背書政策必須要相對應的修改。
-![state-based endorsement](/HyperledgerFabric/sample2.png)
+![state-based endorsement](/HyperledgerFabric/sample3.png)
 
